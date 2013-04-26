@@ -4,5 +4,8 @@
     <string name="app_name">Miiverse</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="refresh">Refresh</string>
+    <string name="downloading_post">Downloading post</string>
+    <string name="images_available">Images will be available in your Gallery app</string>
 
 </resources>
